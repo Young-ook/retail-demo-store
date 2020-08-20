@@ -31,7 +31,7 @@
         <router-link class="navbar-brand text-primary mr-0" :to="{name:'Main'}">
           <span class="fa-stack">
             <i class="fa fa-square fa-stack-2x"></i>
-            <i class="fa fa-globe-americas fa-stack-1x fa-inverse"></i>
+            <i class="fa fa-store fa-stack-1x fa-inverse"></i>
           </span>
           &nbsp;Retail Demo Store  
         </router-link>
