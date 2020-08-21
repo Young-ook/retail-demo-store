@@ -33,7 +33,7 @@
             <i class="fa fa-square fa-stack-2x"></i>
             <i class="fa fa-store fa-stack-1x fa-inverse"></i>
           </span>
-          &nbsp;Retail Demo Store  
+          &nbsp;Oksusu Market
         </router-link>
         <ul class="navbar-nav ml-auto">
           <li class="nav-item" v-if="!user" >
