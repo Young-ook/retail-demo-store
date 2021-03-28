@@ -4,6 +4,13 @@
 # .env file based off environment variables. The .env file is loaded by the 
 # web-ui service to set its configuration.
 
+CARTS_SERVICE_URL=carts
+ORDERS_SERVICE_URL=orders
+PRODUCTS_SERVICE_URL=products
+RECOMMENDATIONS_SERVICE_URL=recommendations
+SEARCH_SERVICE_URL=search
+USERS_SERVICE_URL=users
+
 set -e
 
 # Delete .env if it exists
